@@ -2,7 +2,7 @@
 
 ### Hey there 👋🏻
 
-I'm Jason, a compsci undergrads @ [**STEI ITB**](#). \
+a compsci undergrads @ [**STEI ITB**](#). \
 Mainly interested in **Software Engineering**, **Data Science**, and **Artificial Intelligence**.
 
 ### Touching grass
