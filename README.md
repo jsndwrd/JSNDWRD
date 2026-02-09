@@ -5,10 +5,6 @@
 a compsci undergrads @ [**STEI ITB**](#). \
 Mainly interested in **Software Engineering**, **Data Science**, and **Artificial Intelligence**.
 
-### Touching grass
-
-Outside technical and academic work, you'll probably find me on a hike or binge watching K-dramas ✌️
-
 ### Stats
 
 ![Stats](https://jsndwrd-github-readme-stats.vercel.app/api?username=JSNDWRD&count_private=true&theme=transparent&show_icons=true&hide_border=true)
