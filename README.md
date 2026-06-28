@@ -27,4 +27,4 @@ Mainly interested in **Software Engineering**, **Data Science**, and **Artificia
 
 ### Know me more
 
-**[LinkedIn](https://www.linkedin.com/in/jason-edward-salim/) | [Portfolio](https://jsndwrd.vercel.app/) | [Email](mailto:jasonedwardsalim.com)**
+**[LinkedIn](https://www.linkedin.com/in/jason-edward-salim/) | [Portfolio](https://www.jasonedward.dev) | [Email](mailto:jasonedwardsalim.com)**
